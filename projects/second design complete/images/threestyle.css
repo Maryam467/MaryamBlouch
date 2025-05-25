@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    
+    width: 80%;
+    height: 80vh;
+    background-color: aqua;
+    margin: 50px auto;
+    
+    
+}
+.maryam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:white ;
+    border: 1px solid;
+    
+    
+}
+.box-1{
+    width: 20%;
+    height: 20px;
+    background-color: white;
+    border-radius: 5px ;
+}
+.box-2{
+    width: 20%;
+    height: 20px;
+    background-color: white;
+    border-radius: 5px ;
+}
+.box-3{
+    width: 20%;
+    height: 20px;
+    background-color: white;
+    border-radius: 5px ;
+}
+.ammar{
+    display: flex;
+    justify-content: center;
+    letter-spacing: 2px;
+}
+.active{
+    width: 20%;
+    height: 20px;
+    background-color: aqua;
+    color: black;
+}
+
+
+
+
